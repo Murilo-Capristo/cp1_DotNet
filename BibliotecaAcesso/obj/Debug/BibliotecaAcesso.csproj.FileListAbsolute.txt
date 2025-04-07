@@ -1,0 +1,6 @@
+C:\Users\muril\source\repos\cp1_rm556794\BibliotecaAcesso\bin\Debug\BibliotecaAcesso.dll
+C:\Users\muril\source\repos\cp1_rm556794\BibliotecaAcesso\bin\Debug\BibliotecaAcesso.pdb
+C:\Users\muril\source\repos\cp1_rm556794\BibliotecaAcesso\obj\Debug\BibliotecaAcesso.csproj.AssemblyReference.cache
+C:\Users\muril\source\repos\cp1_rm556794\BibliotecaAcesso\obj\Debug\BibliotecaAcesso.csproj.CoreCompileInputs.cache
+C:\Users\muril\source\repos\cp1_rm556794\BibliotecaAcesso\obj\Debug\BibliotecaAcesso.dll
+C:\Users\muril\source\repos\cp1_rm556794\BibliotecaAcesso\obj\Debug\BibliotecaAcesso.pdb
